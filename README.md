@@ -8,6 +8,10 @@
 
 👀 experienced
 
+
+<img src="https://img.shields.io/badge/Solidity-363636?style=plastic&logo=Solidiry&logoColor=white"/>
+                                                                                                               
+                                                                                                               
 👀 recentely interested in
 
 🌱 recently learning
