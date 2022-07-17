@@ -11,11 +11,13 @@
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Solidity-363636?style=plastic&logo=Solidity&logoColor=white"/>
 
 - <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white"/>
+
+- <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=plastic&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Pycharm-000000?style=plastic&logo=Pycharm&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=plastic&logo=IntelliJIDEA&logoColor=white"/>
                                                                                                                
 
 🌱 Recently learning
 - <img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic&logo=Typescript&logoColor=white"/>
-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Java-000000?style=plastic&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
 - <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white"/>
 
 
