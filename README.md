@@ -3,7 +3,7 @@
 🤖 familiar to
 
 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/nodejs-339933?style=plastic&logo=nodejs&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/flask-000000?style=plastic&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white"/>
 
 
 👀 experienced
