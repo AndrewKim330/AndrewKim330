@@ -12,7 +12,7 @@
 
 - <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white"/>
 
-- <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=VSCode&logoColor=white"/> <img src="https://img.shields.io/badge/Pycharm-000000?style=plastic&logo=Pycharm&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=plastic&logo=IntelliJ%20IDEA&logoColor=white"/>
+- <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Pycharm-000000?style=plastic&logo=Pycharm&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=plastic&logo=IntelliJ%20IDEA&logoColor=white"/>
                                                                                                                
 
 🌱 Recently learning
