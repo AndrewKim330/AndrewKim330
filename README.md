@@ -1,7 +1,8 @@
 👋 Welcome to my Andrew's Github home. I'm,
 
 🤖 Familiar to
-- <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white"/> (<img src="https://img.shields.io/badge/Express-181717?style=plastic&logo=Express&logoColor=white"/>)
+- <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white"/> 
+  - <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white"/> (<img src="https://img.shields.io/badge/Express-181717?style=plastic&logo=Express&logoColor=white"/>)
 - <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/> (<img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white"/>)
 - <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/>
 -  <img src="https://img.shields.io/badge/MySql-4479A1?style=plastic&logo=MySql&logoColor=white"/>
