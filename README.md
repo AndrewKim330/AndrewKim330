@@ -3,8 +3,7 @@
 🤖 familiar to
 
 
-  <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/flask-000000?style=plastic&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/flask-000000?style=plastic&logo=flask&logoColor=white"/>
 
 
 👀 experienced
