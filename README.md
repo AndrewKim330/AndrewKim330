@@ -21,6 +21,6 @@
 - <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white"/>
 
 
-### 📫 You can reach me to
+## 📫 You can reach me to
   - rendezvous330@gmail.com
   - andrew@drimaes.com
