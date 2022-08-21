@@ -21,6 +21,7 @@
 - <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=Go&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Java-000000?style=plastic&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
 - <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon aws&logoColor=white"/>
+- <img src="https://img.shields.io/badge/GoLand-000000?style=plastic&logo=GoLand&logoColor=white"/>
 
 
 
