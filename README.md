@@ -1,3 +1,6 @@
+![LeetCode Stats](https://leetcard.jacoblin.cool/rendezvous330?theme=dark&font=Days%20One)
+
+
 ## 👋 Welcome to Andrew's Github home. I'm,
 
 ### 🤖 Familiar to
