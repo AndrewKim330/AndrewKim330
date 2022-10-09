@@ -1,6 +1,3 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/rendezvous330?theme=dark&font=Days%20One)
-
-
 ## 👋 Welcome to Andrew's Github home. I'm,
 
 ### 🤖 Familiar to
@@ -31,3 +28,7 @@
 ## 📫 You can reach me to
   - rendezvous330@gmail.com
   - andrew@drimaes.com
+
+---
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/rendezvous330?theme=dark&font=Days%20One)
